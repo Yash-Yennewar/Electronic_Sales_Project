@@ -4,7 +4,7 @@
 
 This project provides a powerful business dashboard developed in Microsoft Excel to analyze electronic product sales data. It highlights performance metrics across various product categories, time periods, customer segments, and geographic regions, with the goal of supporting data-driven decision-making for a retail business.
 
-![Coffee Background Banner (4)](screenshorts/Electronic-sales.jpg)
+![Coffee Background Banner (4)](Screenshot/Electronic-sales.jpg)
 
 ## 🔍 Project Overview
 
@@ -55,4 +55,4 @@ The dashboard includes multiple visual components designed for intuitive explora
 
 ## 💻 Dashboard Preview
 
-<img src="screenshorts/Dashboard.jpg" width="3200" height="500"/>&nbsp;
+<img src="Screenshot/Dashboard.jpg" width="3200" height="500"/>&nbsp;
