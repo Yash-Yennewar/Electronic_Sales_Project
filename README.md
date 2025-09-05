@@ -55,4 +55,4 @@ The dashboard includes multiple visual components designed for intuitive explora
 
 ## 💻 Dashboard Preview
 
-<img src="Screenshot/Dashboard.jpg" width="3200" height="500"/>&nbsp;
+<img src="Screenshot/Dashboard.png" width="3200" height="500"/>&nbsp;
